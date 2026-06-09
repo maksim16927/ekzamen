@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+product_images/*
+!product_images/.gitkeep

@@ -1,0 +1,2 @@
+pillow
+psycopg[binary]
